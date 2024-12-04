@@ -1,0 +1,9 @@
+openai
+python-pptx
+pydantic
+requests
+Pillow
+python-docx
+Spire.Presentation
+PyMuPDF
+python-dotenv
